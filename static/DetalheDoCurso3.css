@@ -1,0 +1,43 @@
+.Graduação{
+    float: left;
+    width:60%;
+    text-align: justify;
+    border-width: thin;
+    border-style: solid;
+   border-color: black;
+   padding: 10px;
+   margin-top: 10px;
+   background-color: azure;
+}
+
+.Horarios{
+    float:right;
+    border-width: thin;
+    border-style: solid;
+   border-color: black;
+   padding: 10px;
+   margin-top: 10px;
+   background-color:azure;
+   width: 400px;
+}
+
+.botao{
+    position: relative;
+    right:-200px;
+    width:150px;
+    top:110px;
+    
+    
+}
+
+.botao button{
+    
+    background-color: mediumblue;
+   
+}
+
+
+.botao a{
+    color: white;
+    text-decoration: none;
+}

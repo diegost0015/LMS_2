@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="homepage.css" />
+    <link rel="stylesheet" type="text/css" href="Padrao.css" />
+    
+    <title>FestSP</title>
+</head>
+<body>
+
+        <div class="Logo">
+                <div class="Logo2"> 
+                        <img src="FESTSP2.png" height="230px" width="500px"> 
+                </div>
+                <img src="FESTSP.png" height="270px" width="500px">
+            </div>
+        
+    <div class="Menu">
+        
+        <a href="index.html">Página Principal</a>
+        <a href="LMS_ListaDeCursos.html">Lista de Cursos</a>
+        <a href="LMS_Noticias.html">Notícias</a>
+        <a href="LMS_Contato.html">Contato</a>
+        <a href="LMS_Login.html">Login</a>
+        
+    </div>
+
+
+    <div class="texto">
+
+        Seja bem vindo ao nosso site, todos nós ficamos feliz!
+FESTSP, a Faculdade Especialista Superior em Tecnologia, é pioneira em cada um dos seus
+cursos e em 1° colocado no ranking do MEC. A grade do curso sempre está atualizada,
+acompanhando as novas tecnologias, mercado de trabalho e o que é mais falado quando se
+trata de tecnologia no mundo. Tudo claramente pensado no desenvolvimento de nossos
+alunos, queremos que ele seja o melhor, esse é o nosso lema.
+“Ensino de qualidade pensado para desenvolver melhores alunos.”
+Nós estamos localizados na AV. Ibirapuera 2000-Moema, São Paulo - SP, 04538-133
+Venha nos visitar e se apaixonar pelo ambiente tecnológico, você pode entrar como visitante e
+ver se tudo na faculdade, como se fosse um aluno nosso! O horário é bem flexível e acessível:
+das 07h as 23h.
+Sobre a FESTSP:
+Fundada em 1992, pelo Heitor Amorim Sampaio, começou com uma escola técnica de cursos
+(Escola Técnica de São Paulo – ETSP) voltado para tecnologia. Com o tempo e aperfeiçoamento
+de cada detalhe e a melhor didática, Heitor em 2005 abriu cursos de graduação e bacharel,
+para ir além de cursos técnicos, pensado em alunos com uma boa qualidade de ensino
+especializado superior em tecnologia. Todavia mudamos o nome para Faculdade Especialista
+Superior em Tecnologia de São Paulo – FESTSP.
+    </div>
+
+
+    <div class="Tudo">
+
+            <div class="Rodape">
+                    <img class="logo_c1" src="cb_logo1.png"  >
+                    <p>Endereço: Av. Ibirapuera n°2000 - Moema - São Paulo</p>
+                    <p>Telefone: (11) 2030-0612 | Telefone Secretária: (11) 2030-1212</p>
+                    <p>Cnpj: 71.772.603/0001-50</p>
+                    
+                    
+                    
+                </div>
+    </div>
+
+</body>
+</html>

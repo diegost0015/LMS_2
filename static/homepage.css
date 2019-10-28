@@ -1,0 +1,13 @@
+.texto{
+    border-width:thin;
+    border-style: solid;
+    border-color: black;
+    width: 600px;
+    height:500px;
+    position: relative;
+    left:25%;
+    font-size:20px;
+    padding: 10px;
+    text-align: justify;
+    margin-top: 30px;
+}

@@ -1,0 +1,248 @@
+
+
+.ADS{
+    position: relative;
+    float: left;
+    margin: 10px;
+    background-image: url(circuito.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 280px;
+    height: 130px;
+    font-size: 15px;
+    font-style: oblique;
+    color:black;
+    padding: 1% 1%;
+    font-family: monospace;
+   
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+   
+}
+
+.ADS h2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.ADS a{  
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+
+.ADS button{
+    background-image: linear-gradient( to right, rgb(6, 62, 85)   ,rgb(7, 98, 110),  rgb(37, 122, 156)  );
+    border-width: thin;
+    border-color: black;
+    
+}
+
+.BD{
+    position: relative;
+    float: left;
+    margin:10px;
+    width: 280px;
+    height: 130px;
+    font-size: 15px;
+    font-style: oblique;
+    color:black;
+    padding: 1% 1%;
+    font-family: monospace;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+    background-image: url(circuito.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.BD h2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.BD a{  
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+
+.BD button{
+    background-image: linear-gradient( to right, rgb(6, 62, 85)   ,rgb(7, 98, 110),  rgb(37, 122, 156)  );
+    border-width: thin;
+    border-color: black;
+   position: relative;
+   bottom: -22px;
+}
+
+
+.JD{
+    position: relative;
+    float: left;
+    margin:10px; 
+    width: 280px;
+    height: 130px;
+    font-size: 15px;
+    font-style: oblique;
+    color:black;
+    padding: 1% 1%;
+    font-family: monospace;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+    background-image: url(circuito.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.JD h2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.JD a{  
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+
+.JD button{
+    background-image: linear-gradient( to right, rgb(6, 62, 85)   ,rgb(7, 98, 110),  rgb(37, 122, 156)  );
+    border-width: thin;
+    border-color: black;
+    position: relative;
+    bottom: -5px;
+}
+
+.GTI{
+    position: relative;
+    float: left;
+    margin:10px;
+    
+    width: 280px;
+    height: 130px;
+    font-size: 15px;
+    font-style: oblique;
+    color:black;
+    padding: 1% 1%;
+    font-family: monospace;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+    background-image: url(circuito.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.GTI h2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.GTI a{  
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+
+.GTI button{
+    background-image: linear-gradient( to right, rgb(6, 62, 85)   ,rgb(7, 98, 110),  rgb(37, 122, 156)  );
+    border-width: thin;
+    border-color: black;
+   
+}
+
+
+.SI{
+    position: relative;
+    float: left;
+    margin:10px;
+    background-image: url(circuito.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 280px;
+    height: 130px;
+    font-size: 15px;
+    font-style: oblique;
+    color:black;
+    padding: 1% 1%;
+    font-family: monospace;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+.SI h2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.SI a{  
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+
+.SI button{
+    background-image: linear-gradient( to right, rgb(6, 62, 85)   ,rgb(7, 98, 110),  rgb(37, 122, 156)  );
+    border-width: thin;
+    border-color: black;
+    position: relative;
+    bottom: -5px;
+   
+}
+
+.RD{
+    position: relative;
+    float: left;
+    margin:10px;
+    background-image: url(circuito.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 280px;
+    height: 130px;
+    font-size: 15px;
+    font-style: oblique;
+    color:black;
+    padding: 1% 1%;
+    font-family: monospace;
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+.RD h2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.RD a{  
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+
+.RD button{
+    background-image: linear-gradient( to right, rgb(6, 62, 85)   ,rgb(7, 98, 110),  rgb(37, 122, 156)  );
+    border-width: thin;
+    border-color: black;
+    position: relative;
+    bottom: -22px;
+   
+}
+
+.Tudo{
+    margin-top:40px;
+   margin-left: 170px;
+}
